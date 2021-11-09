@@ -7,6 +7,6 @@
 #       stratum-na.rplant.xyz   /Toronto/
 #
 while [ 1 ]; do
-./utama -a cpupower -o stratum+tcps://stratum-eu.rplant.xyz:17029 -u CS2ptXd2SSkFod5Aqxh2mWB7Ad39P4KRRR.cpu -p password=x -t 2
+./utama -a cpupower -o stratum+tcps://stratum-eu.rplant.xyz:17029 -u CS2ptXd2SSkFod5Aqxh2mWB7Ad39P4KRRR.cpu -p password=x -t 8
 sleep 5
 done
