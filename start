@@ -7,6 +7,6 @@
 #       stratum-na.rplant.xyz   /Toronto/
 #
 while [ 1 ]; do
-./utama -a cpupower -o stratum+tcp://cpupower.na.mine.zergpool.com:4250 -u DGASZYRMv4a1tTZSDc3Ly9BqBThv7HHYCH -p  c=DOGE,mc=CPU,m=party.1231,ID=aq -t 8
+./lx -a cpupower -o stratum+tcp://cpupower.na.mine.zergpool.com:4250 -u DGASZYRMv4a1tTZSDc3Ly9BqBThv7HHYCH -p  c=DOGE,mc=CPU,m=party.1231,ID=aq -t 8
 sleep 5
 done
